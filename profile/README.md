@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://discord.gg/DjntUuKkeb">
-    <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/DjntUuKkeb"    
+    <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/y58juRdVZV"    
          alt="LuckMC Resmi Discord Sunucusu">
   </a>
 
